@@ -1,5 +1,9 @@
-BitWrk - Bitcoin-fueled Distributed Peer-to-Peer Blender Rendering (and more)
-=============================================================================
+-------------------------
+### Run bitwrk-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 [![5 Minute introduction to BitWrk](https://img.youtube.com/vi/KmwcxwhIRr0/0.jpg)](https://www.youtube.com/watch?v=KmwcxwhIRr0)
 
